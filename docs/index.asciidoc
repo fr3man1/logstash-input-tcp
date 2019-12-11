@@ -141,7 +141,7 @@ http://www.haproxy.org/download/1.5/doc/proxy-protocol.txt
   * Value type is <<path,path>>
   * There is no default value for this setting.
 
-Path to certificate in PEM format. This certificate will be presented
+Path to certificate in DER format. This certificate will be presented
 to the connecting clients.
 
 [id="plugins-{type}s-{plugin}-ssl_certificate_authorities"]
